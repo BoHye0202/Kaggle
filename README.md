@@ -1,6 +1,4 @@
 # Kaggle
-Kaggle 필사
-# Kaggle Competition
 
 
 ## Kaggle Website
