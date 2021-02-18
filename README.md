@@ -19,6 +19,11 @@ Top Ranker들의 공개된 커널을 필사했습니다.
 
 - Competition 및 커널 선정은 캐글코리아 [이유한님의 커널커리큘럼](https://aifrenz.github.io/present_file/커널커리큘럼.pdf)을 참고했습니다.
 
+## Dataset
+1. [캐글팀](https://www.kaggle.com/kaggleteam/datasets?sort=votes)
+2. [축구](https://datahub.io/sports-data/english-premier-league#resource-season-1819)
+3. 
+
 ## Project
 
 ### 1. Titanic
