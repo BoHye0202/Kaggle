@@ -12,8 +12,10 @@ Top Ranker들의 공개된 커널을 필사했습니다.
 
 [STEP1] 
 하나 하나 코드 이해하며 그대로 필사
+
 [STEP2]
 필사한 코드를 처음부터 다시 쭉 복습을 하며 필사
+
 [STEP3]
 전체흐름을 파악하며 익히기
 
@@ -25,9 +27,11 @@ Top Ranker들의 공개된 커널을 필사했습니다.
 3. 
 
 ## Project
-
 ### 1. Titanic
 1. 타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning
 2. EDA To Prediction(DieTanic)
 3. Titanic Top 4% with ensemble modeling
 4. Introduction to Ensembling/Stacking in Python
+
+### 2. Credit Fraud Detector with AE
+
